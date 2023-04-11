@@ -1,0 +1,3 @@
+[submodule "demoproject"]
+	path = demoproject
+	url = https://github.com/kiranpanwarincedo/studentAPI.git
